@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+</p>
