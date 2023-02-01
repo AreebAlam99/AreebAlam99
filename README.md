@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AreebAlam99/AreebAlam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
+    <h1> Hi there, I'm Areeb Alam 👋<a href="#"></h1>
+ </div>
+  
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/AreebAlam99/count.svg" />
