@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+  <img src="https://profile-counter.glitch.me/AreebAlam99/count.svg" />
 </p>
