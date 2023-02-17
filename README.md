@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  </div>
     
 <p align="center">
-<a href="https://github.com/AreebAlam99"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;JS+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/AreebAlam99"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Ruby+on+Rails+Developer;Backend+Engineer;JS+Developer&center=true&width=500&height=50"></a>
   
 <p align="center"> 
   Views<br>
