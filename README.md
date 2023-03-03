@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <h1> Hi there, I'm Areeb Alam 👋<a href="#"></h1>
+    <h1> Hey there, I'm Areeb Alam 👋<a href="#"></h1>
  </div>
     
 <p align="center">
